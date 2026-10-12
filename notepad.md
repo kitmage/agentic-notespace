@@ -1,0 +1,11 @@
+Sangha TEST server id:
+1484276516748787772
+
+TEST channel id:
+1559187910660722778
+
+Sangha LIVE server id:
+947543125960831066
+
+Mike's user id:
+691442967940169829
