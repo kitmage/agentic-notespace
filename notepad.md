@@ -9,3 +9,6 @@ Sangha LIVE server id:
 
 Mike's user id:
 691442967940169829
+
+Bot App ID:
+1559184848130932758
