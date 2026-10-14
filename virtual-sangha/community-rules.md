@@ -93,3 +93,41 @@ When nothing else works, a Steward may issue a ban so that folks whose behavior 
 Stewards will always offer multiple invitations to reconcile or issue timeouts, and will typically consult with other Stewards before making any final decisions.
 
 If, however, you feel a Steward is making an error, feel free to open a ticket in <#1509231264379699200>  or send a message to an Admin.
+
+# AI Generated Art
+Fine details of religious icons are spiritually and culturally important, so please never share any AI generated images that contain Buddhas, Bodhisattvas, monks or nuns.
+
+# Founding Scriptures
+*"Intention, I tell you, is kamma."* - The Buddha, AN 6.63
+
+*"Good friends, companions, and associates are the whole of the spiritual life."* - The Buddha, SN 3.18
+
+*"Monks, I do not see a single thing that gives rise to unskillful qualities, or, when they have arisen, makes them increase and grow like wrong view. When you have wrong view, unskillful qualities arise or, when they have arisen, they increase and grow.*
+
+*"Monks, I do not see a single thing that gives rise to skillful qualities, or, when they have arisen, makes them increase and grow like right view. When you have right view, unarisen skillful qualities arise or, when they have arisen, they increase and grow.* - The Budhha, AN 1.306
+
+In MN 9,  Sariputta says: A noble disciple has right view when they understand what is skillful, and the root of skillfulness, and they understand what is unskillful, and the root of unskilfulness.
+
+And what is unskillful? Breaking the 5 precepts.
+
+What is the root of unskillfulness? The Three Poisons: greed, hate, and delusion.
+
+What is skillful? Keeping the 5 precepts.
+
+What is the root of skillfulness? Contentment, love, and understanding.
+
+The monks ask, is there another way of describing right view?
+
+Sariputta answers: *A noble disciple has right view when they understand the Four Noble Truths.*
+
+In MN 95 and DN 31, The Buddha gives instructions to lay people on how to cultivate their practice, including guidelines on ethical conduct as well as the importance of seeking out a teacher, finding opportunities to hear the Dharma, and generating confidence in the teachings.
+
+These suttas listed above form the constitution of the Virtual Sangha.
+
+Our intention is to cultivate good spiritual friendship, where we support each other in connecting with and growing confidence in the teachings, to understand the Four Noble Truths and to apply the Five Precepts to our lives.
+
+We continue to nurture the growth and development of ourselves and our friends here, while also networking with reputable teachers and monastics more broadly.
+
+The internet is full of debate-bros, misinformation, and scams, and we don't have much or any tolerance for those things here.
+
+Providing a place where people can show up with any level of familiarity, get connected with wholesome friendship from lay and monastic disciples, take refuge, and even deepen their study and practice by enrolling in programs from the Dharma Teacher Order is the fillfillment of those intentions, and it has been an honor to see those intentions bear fruit.
