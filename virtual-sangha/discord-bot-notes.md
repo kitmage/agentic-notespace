@@ -1,11 +1,23 @@
-Sangha TEST server id:
+TEST server id:
 1484276516748787772
 
 TEST channel id:
 1559187910660722778
 
-Sangha LIVE server id:
+LIVE server id:
 947543125960831066
+
+LIVE mod channel:
+1560278479352627240
+
+LIVE seniors channel:
+1560278981805211708
+
+Live chat channel:
+1557007312957472828
+
+Mods role id:
+1392821311222448178
 
 Mike's user id:
 691442967940169829
