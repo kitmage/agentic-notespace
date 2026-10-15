@@ -16,6 +16,9 @@ LIVE seniors channel:
 Live chat channel:
 1557007312957472828
 
+Mud To Lotus ("MTL") forum channel id:
+1469828657185951818
+
 Mods role id:
 1392821311222448178
 
